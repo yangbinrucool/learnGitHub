@@ -1,2 +1,2 @@
-git is a great software!
-git is free!
+git is  great software!
+git is free software!
